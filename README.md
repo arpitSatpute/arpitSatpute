@@ -85,7 +85,6 @@ const arpit = {
 ---
 
 ## 📊 GitHub Stats
-
 <div align="center">
   
   <img src="https://github-readme-stats.vercel.app/api?username=arpitSatpute&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" height="170"/>
@@ -95,7 +94,7 @@ const arpit = {
 
 <div align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpitSatpute&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpitSatpute&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&langs_count=10&include_repo=Java" alt="Top Languages" height="170"/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=arpitSatpute&theme=react-dark&hide_border=true&bg_color=0D1117" alt="Contribution Graph" height="170"/>
   
 </div>
