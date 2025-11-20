@@ -2,11 +2,11 @@
 
 <div align="center">
   
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Backend+Enthusiast;Microservices+Architect;Always+Learning+New+Things!)
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Blockchain+Developer;Full+Stack+Developer;Backend+Enthusiast;Microservices+Architect;Always+Learning+New+Things!)
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arpit-satpute)
-  [![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/arpitsatpute)
-  [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/arpitsatpute)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arpitsatpute)
+  [![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/arpits_jsx)
+  [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Arpit_Ramesh_Satpute/)
   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arpitSatpute)
   
 </div>
@@ -18,21 +18,27 @@
 ```javascript
 const arpit = {
     pronouns: "He/Him",
-    code: ["JavaScript", "Java", "Python", "SQL"],
+    code: ["Solidity", "JavaScript", "Java", "Python", "SQL"],
     technologies: {
+        blockchain: {
+            smart_contract: ["Solidity", "Foundry", OpenZeppelin],
+            token_standards: ["ERC20", "ERC721", "ERC712", "ERC1155", "ERC4626"],
+            web3_frontend: ["Wagmi", "Viem", "Ethers.js",],
+            decentralised_storage: ["IPFS"],
+            others: ["Self SDK (ZKP)", Polygon (Layer 2)]
         backEnd: {
             java: ["Spring Boot", "Microservices", "Hibernate"],
             js: ["Node.js", "Express"],
         },
         frontEnd: {
-            js: ["React", "JavaScript"],
+            js: ["React", "React Native", "Next.js", "JavaScript", "TypeScript"],
             css: ["Tailwind", "Bootstrap"]
         },
-        databases: ["MongoDB", "MySQL", "Redis"],
-        devOps: ["Docker", "AWS", "Git"],
+        databases: ["MongoDB", "MySQL", "PostgreSQL", "Redis"],
+        devOps: ["Docker", "Git"],
         tools: ["Postman", "Maven", "IntelliJ IDEA"]
     },
-    currentFocus: "Building scalable microservices architecture",
+    currentFocus: "Engineering high-performance, scalable Web3 applications leveraging advanced blockchain architectures",
     funFact: "I debug with console.log() and I'm not ashamed!"
 };
 ```
