@@ -109,15 +109,17 @@ const arpit = {
 **📅 Created: [Add Date]** | ![Status](https://img.shields.io/badge/Status-Active-success?style=flat-square)
 
 ```yaml
-Description: [Add your project description]
-Tech Stack: 
-  - Frontend: React, JavaScript
-  - Backend: Node.js/Spring Boot
-  - Database: [Your DB]
+Description: ["Decentralized e-commerce platform where brands mint NFT digital twins of physical products, enabling trust-less purchases, escrow security, and real-world redemption via on-chain verification."]
+Tech Stack:
+  - Technology: Blockchain
+  - Frontend: React, JavaScript, Wagmi/Viem
+  - Smart Contract: Solidity, Foundry, Openzeppelin
+  - Decentralised Storage: Pinata IPFS
+  - Token Standards: ERC1155
 Key Features:
-  - ✨ [Feature 1]
-  - ✨ [Feature 2]
-  - ✨ [Feature 3]
+  - ✨ Decentralized e-commerce platform where brands mint ERC1155 NFTs as tamper-proof digital twins of real-world products,
+  - ✨ Smart Contracts (NFT + Escrow + Order Manager) with secure minting, trust-less payments, conditional fund releases, and automated redemption workflows.
+  - ✨ Integrated IFS for immutable product provenance and on chain redemption tracking with dynamic NFT metadata evolution.
 ```
 
 [![View Project](https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arpitSatpute/Vermint)
@@ -128,15 +130,16 @@ Key Features:
 **📅 Created: [Add Date]** | ![Status](https://img.shields.io/badge/Status-Active-success?style=flat-square)
 
 ```yaml
-Description: Smart scheduling and task management application
+Description: Centralised Portal for Appointment and Business Management.
 Tech Stack: 
   - Frontend: React, Tailwind CSS
-  - Backend: Spring Boot, Java
-  - Database: MySQL/MongoDB
+  - Backend: Spring Boot, Java, Razorpay, UploadCare
+  - Database: PostgreSQL, Redis
+  - Other: Docker, RabbitMQ
 Key Features:
-  - 📆 Intelligent scheduling algorithms
-  - 🔔 Real-time notifications
-  - 📊 Analytics dashboard
+  - 📆 Full-stack platform enabling businesses to host services & manage appointments.
+  - 🔔 Razorpay wallet (add/withdraw) with secure transactions with robust encryption.
+  - 📊 Containerised with Docker & deployed to cloud, ensuring high availability.
 ```
 
 [![View Project](https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arpitSatpute/Skedula)
@@ -147,15 +150,17 @@ Key Features:
 **📅 Created: [Add Date]** | ![Status](https://img.shields.io/badge/Status-Active-success?style=flat-square)
 
 ```yaml
-Description: Data analytics and insights generation platform
+Description: Autonomous DeFi liquidity engine that harnesses off-chain predictive intelligence and on-chain cryptographic proofs to continuously redirect capital toward the highest-yielding opportunities.
 Tech Stack: 
-  - Frontend: React, Chart.js
-  - Backend: Spring Boot, Python
-  - Database: MongoDB, Redis (Caching)
+  - Technology: Blockchain
+  - Frontend: React, JavaScript, Wagmi/Viem, Heroui
+  - Smart Contract: Solidity, Foundry, Openzeppelin
+  - Backend: Python (Allocation Prediction Model)
+  - Token Standards: EIP712, ERC20, ERC4626
 Key Features:
-  - 📊 Advanced data visualization
-  - 🤖 Machine learning integration
-  - 🚀 Real-time analytics processing
+  - 📊 Designed a modular ERC-4626 Vault system on Polygon enabling automated yield strategies and composable integration with DeFi protocols. 
+  - 🤖 Built a custom Python AI engine performing real-time risk scoring, APY prediction, and optimal allocation generation using XBoost models.
+  - 🚀 Implemented an EIP-712 verification flow ensuring all Al recommendations are authenticated and tamper-proof on chain.
 ```
 
 [![View Project](https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arpitSatpute/Insight-Yield)
@@ -166,15 +171,16 @@ Key Features:
 **📅 Created: [Add Date]** | ![Status](https://img.shields.io/badge/Status-Active-success?style=flat-square)
 
 ```yaml
-Description: Collaborative planning and project management tool
+Description: Event Management Platform
 Tech Stack: 
   - Frontend: React, JavaScript
-  - Backend: Node.js, Express
-  - Database: MongoDB
+  - Backend: Spring Boot, Java
+  - Database: PostgreSQL
+  - Other: Docker, RabbitMQ
 Key Features:
-  - 👥 Team collaboration features
-  - 📋 Kanban board implementation
-  - 🔄 Real-time synchronization
+  - 👥 Platform enabling hosts to connect with event organizers and local vendors across cities.
+  - 📋 Dual booking system, allowing direct organizer hiring or selection from available vendors.
+  - 🔄 Secure escrow system, holding 10% of payments until post-event review.
 ```
 
 [![View Project](https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arpitSatpute/PlanIt)
@@ -185,15 +191,15 @@ Key Features:
 **📅 Created: [Add Date]** | ![Status](https://img.shields.io/badge/Status-Active-success?style=flat-square)
 
 ```yaml
-Description: Modern web application with cutting-edge features
+Description: AI-Powered Exam Integrity System 
 Tech Stack: 
-  - Frontend: React, JavaScript
-  - Backend: [Your backend tech]
-  - Database: [Your database]
+  - Frontend: React, React Native, JavaScript, Tailwind CSS
+  - Backend: Java, Spring Boot, WebRTC, WebSocket, Gemini AI
+  - Database: PostgreSQL
 Key Features:
-  - 🎨 Modern UI/UX design
-  - ⚡ High performance optimization
-  - 🔒 Secure authentication system
+  - 🎨 AI-driven exam system, securing 10+ assessments with real-time monitoring.
+  - ⚡ Bluetooth & WiFi-based device detection, blocking exam if unauthorised devices detected.
+  - 🔒 AI-generated scenario-based tests aligned with resumes and job descriptions.
 ```
 
 [![View Project](https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arpitSatpute/Proxima)
