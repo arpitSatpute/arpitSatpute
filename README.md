@@ -21,11 +21,11 @@ const arpit = {
     code: ["Solidity", "JavaScript", "Java", "Python", "SQL"],
     technologies: {
         blockchain: {
-            smart_contract: ["Solidity", "Foundry", OpenZeppelin],
+            smart_contract: ["Solidity", "Foundry", "OpenZeppelin"],
             token_standards: ["ERC20", "ERC721", "ERC712", "ERC1155", "ERC4626"],
             web3_frontend: ["Wagmi", "Viem", "Ethers.js",],
             decentralised_storage: ["IPFS"],
-            others: ["Self SDK (ZKP)", Polygon (Layer 2)]
+            others: ["Self SDK (ZKP)", "Polygon (Layer 2)"]
         },
         backEnd: {
             java: ["Spring Boot", "Microservices", "Hibernate"],
@@ -106,7 +106,7 @@ const arpit = {
 > A chronological journey through my development projects
 
 ### 🌟 [Vermint](https://github.com/arpitSatpute/Vermint)
-**📅 Created: [Add Date]** | ![Status](https://img.shields.io/badge/Status-Active-success?style=flat-square)
+**📅 Created: Nov-2025 | ![Status](https://img.shields.io/badge/Status-Active-success?style=flat-square)
 
 ```yaml
 Description: ["Decentralized e-commerce platform where brands mint NFT digital twins of physical products, enabling trust-less purchases, escrow security, and real-world redemption via on-chain verification."]
@@ -127,7 +127,7 @@ Key Features:
 ---
 
 ### 📅 [Skedula](https://github.com/arpitSatpute/Skedula)
-**📅 Created: [Add Date]** | ![Status](https://img.shields.io/badge/Status-Active-success?style=flat-square)
+**📅 Created: Aug-2025 | ![Status](https://img.shields.io/badge/Status-Active-success?style=flat-square)
 
 ```yaml
 Description: Centralised Portal for Appointment and Business Management.
@@ -147,7 +147,7 @@ Key Features:
 ---
 
 ### 📈 [Insight Yield](https://github.com/arpitSatpute/Insight-Yield)
-**📅 Created: [Add Date]** | ![Status](https://img.shields.io/badge/Status-Active-success?style=flat-square)
+**📅 Created: Nov-2025 | ![Status](https://img.shields.io/badge/Status-Active-success?style=flat-square)
 
 ```yaml
 Description: Autonomous DeFi liquidity engine that harnesses off-chain predictive intelligence and on-chain cryptographic proofs to continuously redirect capital toward the highest-yielding opportunities.
@@ -168,7 +168,7 @@ Key Features:
 ---
 
 ### 📝 [PlanIt](https://github.com/arpitSatpute/PlanIt)
-**📅 Created: [Add Date]** | ![Status](https://img.shields.io/badge/Status-Active-success?style=flat-square)
+**📅 Created: Feb-2025 | ![Status](https://img.shields.io/badge/Status-Active-success?style=flat-square)
 
 ```yaml
 Description: Event Management Platform
@@ -188,7 +188,7 @@ Key Features:
 ---
 
 ### 🚀 [Proxima](https://github.com/arpitSatpute/Proxima)
-**📅 Created: [Add Date]** | ![Status](https://img.shields.io/badge/Status-Active-success?style=flat-square)
+**📅 Created: Jan-2025 | ![Status](https://img.shields.io/badge/Status-Active-success?style=flat-square)
 
 ```yaml
 Description: AI-Powered Exam Integrity System 
@@ -229,7 +229,7 @@ A scalable quiz platform built with:
 ### 💾 Redis Integration
 **Caching Solution**
 
-Implementation of Redis for:
+Implementation of Redis (Learning Purpose) for:
 - High-performance caching
 - Session management
 - Real-time data access
@@ -263,11 +263,10 @@ Implementation of Redis for:
 
 ## 🎯 Current Focus
 
-- 🔭 Building **full-stack applications** with modern tech stacks
-- 🌱 Mastering **microservices architecture** and **distributed systems**
+- 🔭 Building **web3 applications** with modern tech stacks
+- 🌱 Mastering **Decentralised Architecture** and **secured systems**
 - 👯 Contributing to **open-source projects**
-- 💡 Exploring **cloud technologies** (AWS, Docker, Kubernetes)
-- 📚 Learning **system design** and **scalability patterns**
+- 💡 Exploring **Blockchain Technologies** (AWS, Docker, Kubernetes)
 - ⚡ Fun fact: **I believe in writing code that speaks for itself!**
 
 ---
