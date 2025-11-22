@@ -282,13 +282,13 @@ graph LR
     E --> F[Deployment]
     F --> G[Monitoring]
     
-    style A fill:#ff6b6b
-    style B fill:#4ecdc4
-    style C fill:#45b7d1
-    style D fill:#96ceb4
-    style E fill:#ffeaa7
-    style F fill:#dfe6e9
-    style G fill:#74b9ff
+    style A fill:#1d1d1b
+    style B fill:#404040
+    style C fill:#1d1d1b
+    style D fill:#404040
+    style E fill:#1d1d1b
+    style F fill:#404040
+    style G fill:#1d1d1b
 ```
 
 ---
