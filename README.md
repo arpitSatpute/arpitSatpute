@@ -299,9 +299,9 @@ graph LR
   
   💬 I'm always open to interesting conversations and collaboration opportunities!
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arpit-satpute)
-  [![Twitter](https://img.shields.io/badge/X-Follow_Me-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/arpitsatpute)
-  [![LeetCode](https://img.shields.io/badge/LeetCode-Solve_Together-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/arpitsatpute)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arpitsatpute)
+  [![Twitter](https://img.shields.io/badge/X-Follow_Me-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/arpits_jsx)
+  [![LeetCode](https://img.shields.io/badge/LeetCode-Solve_Together-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/Arpit_Ramesh_Satpute)
   [![Email](https://img.shields.io/badge/Email-Drop_a_Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arpitrameshsatpute6986@gmail.com)
   
 </div>
