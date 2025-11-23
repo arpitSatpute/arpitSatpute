@@ -56,7 +56,6 @@ const arpit = {
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 
 ### Frameworks & Libraries
@@ -106,7 +105,7 @@ const arpit = {
 > A chronological journey through my development projects
 
 ### 🌟 [Vermint](https://github.com/arpitSatpute/Vermint)
-**📅 Created: Nov-2025 | ![Status](https://img.shields.io/badge/Status-Active-success?style=flat-square)
+**📅 Created: Aug-2025 | ![Status](https://img.shields.io/badge/Status-Active-success?style=flat-square)
 
 ```yaml
 Description: ["Decentralized e-commerce platform where brands mint NFT digital twins of physical products, enabling trust-less purchases, escrow security, and real-world redemption via on-chain verification."]
@@ -127,7 +126,7 @@ Key Features:
 ---
 
 ### 📅 [Skedula](https://github.com/arpitSatpute/Skedula)
-**📅 Created: Aug-2025 | ![Status](https://img.shields.io/badge/Status-Active-success?style=flat-square)
+**📅 Deployed: Aug-2025 | ![Status](https://img.shields.io/badge/Status-Active-success?style=flat-square)
 
 ```yaml
 Description: Centralised Portal for Appointment and Business Management.
@@ -147,7 +146,7 @@ Key Features:
 ---
 
 ### 📈 [Insight Yield](https://github.com/arpitSatpute/Insight-Yield)
-**📅 Created: Nov-2025 | ![Status](https://img.shields.io/badge/Status-Active-success?style=flat-square)
+**📅 Deployed: Nov-2025 | ![Status](https://img.shields.io/badge/Status-Active-success?style=flat-square)
 
 ```yaml
 Description: Autonomous DeFi liquidity engine that harnesses off-chain predictive intelligence and on-chain cryptographic proofs to continuously redirect capital toward the highest-yielding opportunities.
@@ -263,10 +262,10 @@ Implementation of Redis (Learning Purpose) for:
 
 ## 🎯 Current Focus
 
-- 🔭 Building **web3 applications** with modern tech stacks
+- 🔭 Building **Web3 applications** with modern tech stacks
 - 🌱 Mastering **Decentralised Architecture** and **secured systems**
 - 👯 Contributing to **open-source projects**
-- 💡 Exploring **Blockchain Technologies** (AWS, Docker, Kubernetes)
+- 💡 Exploring **Blockchain Technologies** (Defi, NFT Marketplace, Layer 2 Scaling Solutions)
 - ⚡ Fun fact: **I believe in writing code that speaks for itself!**
 
 ---
