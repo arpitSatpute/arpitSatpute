@@ -20,7 +20,7 @@ I'm a software engineer specializing in blockchain technology and full-stack dev
 **Core Competencies:**
 - **Blockchain Development:** Smart contracts (Solidity), DeFi protocols, NFT ecosystems, and Web3 integrations
 - **Backend Engineering:** Microservices architecture with Spring Boot, RESTful APIs, and distributed systems
-- **Full-Stack Development:** React-based frontends, Node.js backends, and modern JavaScript/TypeScript
+- **Full-Stack Development:** React-based frontends, Java Spring Boot based backends, and modern JavaScript/TypeScript
 
 Currently focused on engineering high-performance Web3 applications and exploring advanced blockchain architectures including Layer 2 scaling solutions and zero-knowledge proofs.
 
